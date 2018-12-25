@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zxing</string>
+
+    <!--zxing-->
+    <string name="error">错误</string>
+    <string name="unable_to_open_camera">打开相机失败</string>
+</resources>
